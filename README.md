@@ -10,7 +10,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 **Problemas o limitaciones del método tradicional:**  
 - Uso ineficiente del espacio.  
-- Reposición reactiva y no predictiva.  
+- Reposición reactiva.  
 - Riesgo de quiebres de stock o sobrestock.  
 - Dificultad para adaptarse a cambios en la demanda estacional.
 
